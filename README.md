@@ -1,2 +1,2 @@
 # Eduportal
-Starting to built a educational portal.
+Starting to built a educational portal on GIT.
